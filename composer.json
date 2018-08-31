@@ -3,7 +3,7 @@
 	"description": "Allow users to login to MediaWiki with their Google Account",
 	"license": "MIT",
 	"require": {
-		"google/apiclient": "^2.0.0@RC"
+		"league/oauth2-client": "^2.3.0"
 	},
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "1.0.0",
